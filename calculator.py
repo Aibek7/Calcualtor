@@ -1,4 +1,10 @@
 
+https://youtu.be/kRSxyiclkw8
+
+
+
+
+
 from tkinter import *;
 from tkinter import messagebox;
 
